@@ -35,7 +35,7 @@ After doing this, it is very important that you don't cover up the livestream ch
 * All 3 people run the Mouse Setup Wizard to define where Twitch's message box is on their monitor.
   * After doing this, they make sure that they don't move their browser window with Twitch in it, and they make sure the Twitch message box is visible on their screen.
 * Person 1 adjusts the order so that Person 2 goes first, then Person 1, then Person 3.
-* Person 1 makes sure everyone is ready, then sends tells Person 2 to send the song donation.
+* Person 1 makes sure everyone is ready, then tells Person 2 to send the song donation.
 * Person 1 gets ready, and as soon as the song starts playing on stream, they hit the start button.
 * The song starts playing on stream, and on the correct cue, the lyrics are entered into the Twitch chat:
   * Person 2: `We're no strangers to love cheer2`
