@@ -6,12 +6,13 @@ Collaboratively enter the lyrics to the song in time to the song in the chat.
 The general idea for this program comes from some livestreamers allowing for song requests in the form of donations. This program allows you to connect to your friends, and collaboratively enter the lyrics to the song you requested in the livestream chat as it plays.
 
 ### Features
+* Controls your mouse and keyboard to enter the lyrics in time to the song.
+  * Define where the livestream chat is on your screen.
 * Import a CSV file to define the lyrics and timestamps.
 * Adjust the order that people say each line of the lyrics.
 * Choose an optional prefix and suffix for each line.
   * For example, to cheer 1 twitch bit at the start of every line of the lyrics, enter "`cheer1 `" as the prefix.
     * Yes, that includes the space after it.
-* Define where the livestream chat is on your screen.
 
 
 ## Guide
