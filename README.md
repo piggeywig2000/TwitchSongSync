@@ -1,5 +1,5 @@
 # TwitchSongSync
-Collaboratively enter the lyrics to the song in time to the song in the chat.
+Collaboratively enter the lyrics in time to the song in the chat.
 
 
 ## Overview
