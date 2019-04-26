@@ -33,7 +33,7 @@ After doing this, it is very important that you don't cover up the livestream ch
 * Person 1 imports a CSV file that defines each lyric line, and the timestamp that lyric line is said.
 * Person 1 adds a suffix to all lines of "` cheer2`" so that on every lyric line they cheer 2 bits after it.
 * All 3 people run the Mouse Setup Wizard to define where Twitch's message box is on their monitor.
-  * After doing this, they make sure that they don't move their broswer window with Twitch in it, and they make sure the Twitch message box is visible.
+  * After doing this, they make sure that they don't move their browser window with Twitch in it, and they make sure the Twitch message box is visible on their screen.
 * Person 1 adjusts the order so that Person 2 goes first, then Person 1, then Person 3.
 * Person 1 makes sure everyone is ready, then sends tells Person 2 to send the song donation.
 * Person 1 gets ready, and as soon as the song starts playing on stream, they hit the start button.
