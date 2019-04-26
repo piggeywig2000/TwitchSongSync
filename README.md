@@ -17,7 +17,7 @@ The general idea for this program comes from some livestreamers allowing for son
 
 ### The CSV file
 The CSV file defines each line of the lyrics that are said, and at what time that line is said.
-It should be formatted so that each row represents a line of the lyrics, with the first column of that line being the amount of seconds after the start that this line is said, and with the second column being the line to be said.
+It should be formatted so that each row represents a line of the lyrics, with the first column of each row being the amount of seconds after the start that this line is said, and with the second column of each row being the line to be said.
 
 ![CSV Example](/images/CSV.png)
 
