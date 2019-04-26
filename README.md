@@ -1,5 +1,5 @@
 # TwitchSongSync
-Connect to your friends, and enter the lyrics to the song in time to the song.
+Collaboratively enter the lyrics to the song in time to the song in the chat.
 
 
 ## Overview
@@ -13,6 +13,7 @@ The general idea for this program comes from some livestreamers allowing for son
     * Yes, that includes the space after it.
 * Define where the livestream chat is on your screen.
 
+
 ## Guide
 
 ### The CSV file
@@ -24,6 +25,7 @@ It should be formatted so that each row represents a line of the lyrics, with th
 ### Mouse Setup
 Click the `Run Mouse Setup Wizard` button to define where the livestream chat message box is.
 After doing this, it is very important that you don't cover up the livestream chat message box or move the window the holds the livestream chat message box, as this will cause the program to click in the wrong place when it tries to enter the lyrics.
+
 
 ## Example of Usage
 * 3 people are connected to each other. Person 1 is the host.
