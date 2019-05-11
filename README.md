@@ -1,6 +1,8 @@
 # TwitchSongSync
 Collaboratively enter the lyrics in time to the song in the chat.
 
+You can download the precompiled binary at the [releases](https://github.com/piggeywig2000/TwitchSongSync/releases) page.
+
 
 ## Overview
 The general idea for this program comes from some livestreamers allowing for song requests in the form of donations. This program allows you to connect to your friends, and collaboratively enter the lyrics to the song you requested in the livestream chat as it plays.
